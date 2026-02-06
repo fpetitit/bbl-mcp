@@ -16,7 +16,20 @@ transition: slide-left
 title: Welcome to Slidev
 mdc: true
 ---
+# notes
+https://www.data.gouv.fr/reuses/search?q=mcp
+https://www.data.gouv.fr/reuses/mcp-recherche-dentreprises
+https://www.data.gouv.fr/reuses/ciqual-mcp
+https://www.data.gouv.fr/reuses/mcp-cartographie-ign
 
+
+https://github.com/datagouv/datagouv-mcp
+
+https://lobehub.com/fr/mcp/thomas-servais-mcp-recherche-entreprise
+https://mcpmarket.com/server/data-gouv
+https://mcp.so/server/datagouv-mcp-server/csonigo
+
+---
 # Welcome to Slidev
 
 Presentation slides for developers
