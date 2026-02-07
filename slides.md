@@ -17,6 +17,8 @@ title: Welcome to Slidev
 mdc: true
 ---
 # notes
+https://benoitvx.github.io/claude-code-paris-02/
+
 https://www.data.gouv.fr/reuses/search?q=mcp
 https://www.data.gouv.fr/reuses/mcp-recherche-dentreprises
 https://www.data.gouv.fr/reuses/ciqual-mcp
